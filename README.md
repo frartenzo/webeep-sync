@@ -39,7 +39,7 @@
 WeBeep Sync è una semplice app che serve per tenere sincronizzati tutti i tuoi file di WeBeep,
 User-Friendly e senza compromessi.
 
-Sto sviluppando quest'app come strumento ad uso personale, ma ho pensato potesse essere utile ad
+Tommaso sta sviluppando quest'app come strumento ad uso personale, ma ha pensato potesse essere utile ad
 altri studenti, perciò è completamente opensource e gratuita sotto [licenza GPLv3](LICENSE).
 
 ### Cos'è esattamente?
